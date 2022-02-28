@@ -229,22 +229,7 @@ margin: auto;
 background-color: rgb(114, 109, 102);
 padding-top: 3px;
 }
-@media(max-width: 300px){
-    .footer {
-    min-height: 40vh;
-    width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("/img/wisata-pulau-moyo-4.jpg");
-    background-position: center;
-    background-size: cover;
-    position: relative;
-    }
-    #apriyan .icon {
-        display: flex;
-        justify-content: end;
-        color: white;
-        padding-right: 40px;
-        }
-}
+
 
 @media(max-width: 700px){
     .content > h1 {
