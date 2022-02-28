@@ -148,8 +148,8 @@ section {
     padding-top: 0;
 }
 
-/* Footer */
-.footer {
+ /* Footer */
+ .footer {
     min-height: 40vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("/img/wisata-pulau-moyo-4.jpg");
@@ -167,22 +167,26 @@ padding-top: 50px;
 #eka h2 {
 color: white;
 padding-top: 20px;
+padding-left: 60px;
 }
 #eka p {
 color: antiquewhite;
+padding-left: 60px;
 }
 
 
 #apriyan h2 {
 display: flex;
 justify-content: end;
-padding-top: 20%;
+padding-top: 15%;
 color: white;
+padding-right: 40px;
 }
 #apriyan .icon {
 display: flex;
 justify-content: end;
 color: white;
+padding-right: 40px;
 }
 
 #apriyan .icon .fa{
@@ -212,7 +216,8 @@ text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
 }
 
 #eka a img {
-width: 180px;
+width: 190px;
+padding-left: 50px;
 }
 
 #dom::after {
@@ -412,22 +417,26 @@ padding-top: 3px;
     #eka h2 {
     color: white;
     padding-top: 20px;
+    padding-left: 60px;
     }
     #eka p {
     color: antiquewhite;
+    padding-left: 60px;
     }
 
 
     #apriyan h2 {
     display: flex;
     justify-content: end;
-    padding-top: 20%;
+    padding-top: 15%;
     color: white;
+    padding-right: 40px;
     }
     #apriyan .icon {
     display: flex;
     justify-content: end;
     color: white;
+    padding-right: 40px;
     }
 
     #apriyan .icon .fa{
@@ -457,7 +466,8 @@ padding-top: 3px;
     }
 
     #eka a img {
-    width: 180px;
+    width: 190px;
+    padding-left: 50px;
     }
 
     #dom::after {
