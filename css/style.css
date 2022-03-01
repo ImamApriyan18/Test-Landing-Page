@@ -186,15 +186,20 @@ padding-right: 40px;
 display: flex;
 justify-content: end;
 color: white;
-padding-right: 40px;
+padding-right: 33px;
 }
 
 #apriyan .icon .fa{
 color: #f44336;
 margin: 0 13px;
 cursor: pointer;
-padding: 18px 0;
+font-size: 30px;
 }
+
+#apriyan .icon > .btn {
+    width: 60px;
+}
+
 #apriyan p {
 color: antiquewhite;
 display: flex;
@@ -437,15 +442,18 @@ padding-top: 3px;
     display: flex;
     justify-content: end;
     color: white;
-    padding-right: 40px;
     }
 
+
     #apriyan .icon .fa{
-    color: #f44336;
-    margin: 0 13px;
-    cursor: pointer;
-    padding: 18px 0;
+        color: #f44336;
+        cursor: pointer;
     }
+
+    #apriyan .icon > .btn {
+        width: 60px;
+    }
+
     #apriyan p {
     color: antiquewhite;
     display: flex;
